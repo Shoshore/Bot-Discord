@@ -1,0 +1,13 @@
+# Ignorer le fichier de configuration sensible
+Botsettings.json
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les dossiers d'environnement virtuel Python
+venv/
+.env
+
+# Ignorer les fichiers générés par des IDE
+.idea/
+*.vscode/
